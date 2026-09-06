@@ -12,7 +12,7 @@
 
 ### 🛠️ Technical Skills
 * **Languages**: C++, Python, TypeScript, JavaScript
-* **Web & Frameworks**: React, Next.js, Svelte, Tailwind CSS, FastAPI
+* **Web & Frameworks**: React, Next.js, Svelte
 * **Robotics & Tools**: ROS, Processing
 
 ### ✉️ Connect with Me
