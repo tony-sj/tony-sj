@@ -2,7 +2,7 @@
 * **Konkuk University College of Medicine** `2023 – Present`
 * KAIST Science of Computing `2021 – 2023`
 * Sejong Academy of Science and Arts `2018 – 2021`
-* 🎯 Interested in **Digital Healthcare**, **HCI**, and **Medical/Educational Applications**
+* Interested in **Digital Healthcare**, **HCI**, and **Medical/Educational Applications**
 
 
 ### 📌 Research Experience
