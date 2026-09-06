@@ -6,9 +6,9 @@
 
 
 ### 📌 Research Experience
-* **Undergraduate Researcher** | KAIST GSMSE (*Integrative Biomedical Imaging Lab*) `2024.07 – 2024.08`
-* **Research Intern** | Gangnam Severance Hospital Biomedical Research Center `2019.07`
-* **Research Intern** | Yonsei Univ. Nano Fabrication/Micro Optics Lab `2019.01`
+* **Undergraduate Researcher** | KAIST GSMSE (*Integrative Biomedical Imaging Lab*) `Jul 2024 – Sep 2024`
+* **Research Intern** | Gangnam Severance Hospital Biomedical Research Center `Jul 2019`
+* **Research Intern** | Yonsei Univ. Nano Fabrication/Micro Optics Lab `Jan 2019`
 
 ### 🛠️ Technical Skills
 * **Languages**: C++, Python, TypeScript, JavaScript
